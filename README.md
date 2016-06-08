@@ -39,6 +39,8 @@ npm install --save redux-thunk
 
 npm install --save react-router
 npm install --save react-router-redux
+
+npm install --save react-bootstrap
 ```
 
 Then run
