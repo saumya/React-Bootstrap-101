@@ -49,6 +49,14 @@ npm run 2js
 npm run pack
 ```
 
+Update the packages
+==================
+
+```
+npm outdated
+npm update
+```
+
 
 [1]: http://redux.js.org/docs/basics/ExampleTodoList.html
 [2]: http://redux.js.org/docs/advanced/AsyncActions.html
