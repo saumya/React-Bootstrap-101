@@ -1,6 +1,11 @@
 React-Bootstrap-101
 ======================
-My first experiment with React-Redux-Thunk-Bootstrap
+My experiment with React-Redux-Thunk-Bootstrap.
+ - This uses Bootstrap for UI
+ - Router for the routing
+
+I think its better to start with the commands below for react. Hoever, if you just want to see how it work. Download it, `npm install` and go from there.
+
 
 [Followed this][13] for routing.
 
